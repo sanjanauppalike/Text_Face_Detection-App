@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Text and Face Detection</string>
+    <string name="open_camera">Open camera</string>
+    <string name="back">Back</string>
+    <string name="ok">OK</string>
+</resources>

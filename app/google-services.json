@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56787933437",
+    "firebase_url": "https://faceonline-20035.firebaseio.com",
+    "project_id": "faceonline-20035",
+    "storage_bucket": "faceonline-20035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56787933437:android:f99179a986a967daa00694",
+        "android_client_info": {
+          "package_name": "com.example.combine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56787933437-bc289cl4g9fevn4ohsu9lek9gra1gfqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.combine",
+            "certificate_hash": "a314905f40229d905e1675e873e66564bcd68986"
+          }
+        },
+        {
+          "client_id": "56787933437-ba16t6ob4jq08s5bhu5vp4rfn7g7lser.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtIL1YygHXmhKVtBiTv8idwbipxbX_7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56787933437-ba16t6ob4jq08s5bhu5vp4rfn7g7lser.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
